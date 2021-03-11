@@ -1,1 +1,1 @@
-# devops
+# Solution architecture diagram
